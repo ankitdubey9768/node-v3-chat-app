@@ -33,17 +33,17 @@ label {
 
 input {
     border: 1px solid #eeeeee;
-    padding: 12px;
+    padding: 6%;
     outline: none;
 }
 
 button {
     cursor: pointer;
-    padding: 12px;
+    padding: 5%;
     background: #7C5CBF;
     border: none;
     color: white;
-    font-size: 16px;
+    font-size: 5%;
     transition: background .3s ease;
 }
 
@@ -138,14 +138,14 @@ button:disabled {
 .compose {
     display: flex;
     flex-shrink: 0;
-    margin-top: 16px;
-    padding: 24px;
+    margin-top: 5%;
+    padding: 3%;
 }
 
 .compose form {
     display: flex;
     flex-grow: 1;
-    margin-right: 16px;
+    margin-right: 3%;
 }
 
 .compose input {
